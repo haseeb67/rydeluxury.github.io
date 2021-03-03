@@ -1,0 +1,240 @@
+
+@font-face {   
+    font-family: 'CeraPro-Black';
+    src: url('../../../../../Font/CeraPro-Black.ttf'),
+    url('../../../Font/CeraPro-Black.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-BlackItalic';
+    src: url('../../../Font/CeraPro-BlackItalic.ttf'),
+    url('../../../Font/CeraPro-BlackItalic.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-Bold';
+    src: url('../../../Font/CeraPro-Bold.ttf'),
+    url('../../../Font/CeraPro-Bold.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-BoldItalic';
+    src: url('../../../Font/CeraPro-BoldItalic.ttf'),
+    url('../../../Font/CeraPro-BoldItalic.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-Italic';
+    src: url('../../../Font/CeraPro-Italic.ttf'),
+    url('../../../Font/CeraPro-Italic.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-Light';
+    src: url('../../../Font/CeraPro-Light.ttf'),
+    url('../../../Font/CeraPro-Light.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-LightItalic';
+    src: url('../../../Font/CeraPro-LightItalic.ttf'),
+    url('../../../Font/CeraPro-LightItalic.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-Medium';
+    src: url('../../../Font/CeraPro-Medium.ttf'),
+    url('../../../Font/CeraPro-Medium.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-MediumItalic';
+    src: url('../../../Font/CeraPro-MediumItalic.ttf'),
+    url('../../../Font/CeraPro-MediumItalic.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-Regular';
+    src: url('../../../Font/CeraPro-Regular.ttf'),
+    url('../../../Font/CeraPro-Regular.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-Thin';
+    src: url('../../../Font/CeraPro-Thin.ttf'),
+    url('../../../Font/CeraPro-Thin.ttf')
+    format('ttf');  
+}
+@font-face {   
+    font-family: 'CeraPro-ThinItalic';
+    src: url('../../../Font/CeraPro-ThinItalic.ttf'),
+    url('../../../Font/CeraPro-ThinItalic.ttf')
+    format('ttf');  
+}
+
+
+.btn-primary {
+    background-color: #073EAD;
+}
+
+.btn-outline-dark {
+    background-color: #fff;
+}
+
+.b-dark {
+    border: 1px solid #000;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+/* header start */
+
+.navbar-brand img {
+    width: 250px;
+}
+.nav-link{
+    display: flex;
+    align-items: center;
+    color: #000000;
+    font-weight: 600;
+}
+
+/*main banner  */
+.page-container{
+    min-height: 700px;
+    height: 100vh;
+    background-image: url("../img/home/main.jpg");
+  background-repeat: no-repeat;
+  background-position: center; 
+  width: 100%;
+  padding-top: 81px;
+      background-size: cover;
+}
+.banner-nav ul li{
+    list-style: none;
+}
+.banner-nav ul li a{
+    padding: .5rem 2rem;
+    display: flex;
+    flex-direction: column;
+}
+/*  on time*/
+.on-time >div{
+    max-width: 400px;
+    padding: 3rem;
+}
+.w-80{
+    width: 80%;
+}
+.w-30{
+    width: 30%;
+}
+.travel-with{
+    object-fit: cover;
+}
+.f-16{
+    font-size: 16px;
+}
+hr{
+    border-top: 2px solid #000;
+}
+.banner-form{
+    width: 100%;
+    max-width: 500px;
+}
+/*  */
+.nav-link.active{
+    color: #073EAD;
+}
+.nav-link img{
+    width: 15px;
+    margin-right: .5rem;
+}
+.navbar-nav {
+    width: calc(100% - 150px);
+}
+
+.nav-btns {
+    width: 150px;
+}
+.twc h5{
+    line-height: 32px;
+}
+
+/* Start footer */
+.footer-main{
+    background-color: #000000;
+    width: 95%;
+    margin: 0 auto;
+    border-radius: 50px;
+    padding: 40px 0;
+}
+.footer-header{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #565656;
+    padding-bottom: 28px;
+}
+.footer-header .footer-app-btn{
+    margin-left: auto;
+}
+.footer-content{
+    margin-top: 50px;
+    color: #fff;
+}
+.footer-content ul{
+    padding: 0;
+    list-style: none;
+    line-height: 40px;
+}
+.footer-content ul li a{
+    color: #fff;
+}
+.footer-inner{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1640px;
+}
+.footer-b-detial{
+    background-color: #fff;
+    width: 100%;
+    padding: 10px 15px;
+    color: #000000;
+}
+.footer-b-detial h3{
+    font-size: 20px;
+}
+.copy-rightbar{
+    text-align: center;
+    margin: 20px 0;
+}
+.copy-rightbar ul{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.copy-rightbar ul li{
+    margin: 0 10px;
+}
+.copy-rightbar a , .copy-rightbar p{
+    color: #000;
+    margin: 0;
+    font-size: 18px;
+}
+
+
+
+
+/* End Footer */
+
+/*  */
+@media (min-width: 992px) {
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding-right: 2rem;
+        padding-left: 2rem;
+    }
+}

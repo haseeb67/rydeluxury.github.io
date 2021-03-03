@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="30" height="30" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="check_mark" data-name="check mark" clip-path="url(#clip-path)">
+    <g id="check_mark-2" data-name="check mark" transform="translate(-967 -3075)">
+      <g id="Ellipse_96" data-name="Ellipse 96" transform="translate(967 3075)" fill="#e9b890" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <circle cx="15" cy="15" r="15" stroke="none"/>
+        <circle cx="15" cy="15" r="14" fill="none"/>
+      </g>
+      <path id="Path_4365" data-name="Path 4365" d="M-18866.637-10600.6l4.168,4.168,7.758-7.758" transform="translate(19842.84 13690.202)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
