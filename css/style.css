@@ -600,7 +600,7 @@ hr{
     height: 60px;
 }
 .WTO{
-    background: url(../Assets/what\ we\ do\ bg@2x.jpg) no-repeat;
+    background: url(../assets/what\ we\ do\ bg@2x.jpg) no-repeat;
     background-size: 100%;
     padding: 28px 0;
     overflow: hidden;
@@ -724,7 +724,7 @@ hr{
     align-items: center;
 }
 .Download-App{
-    background: url(../Assets/Rectangle\ 37@2x.jpg) no-repeat;
+    background: url(../assets/Rectangle\ 37@2x.jpg) no-repeat;
     background-size: 100%;
     overflow: hidden;
 }
@@ -1055,7 +1055,7 @@ hr{
 
 /* Start Login Page */
 .login-wrap{
-    background: url(../Assets/B983F29D-2153-402B-9F96-9F46EDD8AE3A_1_105_c@2x.jpg);
+    background: url(../assets/B983F29D-2153-402B-9F96-9F46EDD8AE3A_1_105_c@2x.jpg);
     height: 100vh;
     min-height: 1000px;
     display: block;
@@ -1287,7 +1287,7 @@ hr{
 
 /* Start 404-error page */
 .oopps-error{
-    background: url(../Assets/404-img@2x.jpg);
+    background: url(../assets/404-img@2x.jpg);
     /* background-color: #000; */
     height: 100vh;
     min-height: 1000px;
@@ -1545,7 +1545,7 @@ hr{
     overflow: hidden;
 }
 .YLR{
-    background: url(../Assets/Mask\ Group\ 5@2x.jpg) no-repeat;
+    background: url(../assets/Mask\ Group\ 5@2x.jpg) no-repeat;
     margin: 0 auto;
     border-radius: 20px;
     background-size: 100% 100%;
@@ -2047,7 +2047,7 @@ hr{
     margin-right: 30px;
   }
 .Lets-Get .container{
-    background: url(../Assets/Rectangle\ 37@2x.jpg) no-repeat;
+    background: url(../assets/Rectangle\ 37@2x.jpg) no-repeat;
     background-size: 100% 100%;
     overflow: hidden;
 }
@@ -2179,7 +2179,7 @@ hr{
 
 /* Start bolg detail */
 .blog-detail-banner{
-    background: url(../Assets/Mask\ Group\ 7@2x.jpg);
+    background: url(../assets/Mask\ Group\ 7@2x.jpg);
     margin-top: 86px;
     padding-top: 40px !important;
 }
