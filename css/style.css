@@ -4,74 +4,74 @@
 }
 @font-face {   
     font-family: 'CeraPro-Black';
-    src: url('../Font/CeraPro-Black.ttf'),
-    url('../Font/CeraPro-Black.ttf')
+    src: url('../font/CeraPro-Black.ttf'),
+    url('../font/CeraPro-Black.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-BlackItalic';
-    src: url('../Font/CeraPro-BlackItalic.ttf'),
-    url('../Font/CeraPro-BlackItalic.ttf')
+    src: url('../font/CeraPro-BlackItalic.ttf'),
+    url('../font/CeraPro-BlackItalic.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-Bold';
-    src: url('../Font/CeraPro-Bold.ttf'),
-    url('../Font/CeraPro-Bold.ttf')
+    src: url('../font/CeraPro-Bold.ttf'),
+    url('../font/CeraPro-Bold.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-BoldItalic';
-    src: url('../Font/CeraPro-BoldItalic.ttf'),
-    url('../Font/CeraPro-BoldItalic.ttf')
+    src: url('../font/CeraPro-BoldItalic.ttf'),
+    url('../font/CeraPro-BoldItalic.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-Italic';
-    src: url('../Font/CeraPro-Italic.ttf'),
-    url('../Font/CeraPro-Italic.ttf')
+    src: url('../font/CeraPro-Italic.ttf'),
+    url('../font/CeraPro-Italic.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-Light';
-    src: url('../Font/CeraPro-Light.ttf'),
-    url('../Font/CeraPro-Light.ttf')
+    src: url('../font/CeraPro-Light.ttf'),
+    url('../font/CeraPro-Light.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-LightItalic';
-    src: url('../Font/CeraPro-LightItalic.ttf'),
-    url('../Font/CeraPro-LightItalic.ttf')
+    src: url('../font/CeraPro-LightItalic.ttf'),
+    url('../font/CeraPro-LightItalic.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-Medium';
-    src: url('../Font/CeraPro-Medium.ttf'),
-    url('../Font/CeraPro-Medium.ttf')
+    src: url('../font/CeraPro-Medium.ttf'),
+    url('../font/CeraPro-Medium.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-MediumItalic';
-    src: url('../Font/CeraPro-MediumItalic.ttf'),
-    url('../Font/CeraPro-MediumItalic.ttf')
+    src: url('../font/CeraPro-MediumItalic.ttf'),
+    url('../font/CeraPro-MediumItalic.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-Regular';
-    src: url('../Font/CeraPro-Regular.ttf'),
-    url('../Font/CeraPro-Regular.ttf')
+    src: url('../font/CeraPro-Regular.ttf'),
+    url('../font/CeraPro-Regular.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-Thin';
-    src: url('../Font/CeraPro-Thin.ttf'),
-    url('../Font/CeraPro-Thin.ttf')
+    src: url('../font/CeraPro-Thin.ttf'),
+    url('../font/CeraPro-Thin.ttf')
     format('ttf');  
 }
 @font-face {   
     font-family: 'CeraPro-ThinItalic';
-    src: url('../Font/CeraPro-ThinItalic.ttf'),
-    url('../Font/CeraPro-ThinItalic.ttf')
+    src: url('../font/CeraPro-ThinItalic.ttf'),
+    url('../font/CeraPro-ThinItalic.ttf')
     format('ttf');  
 }
 input:focus , button:focus{
