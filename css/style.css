@@ -2356,6 +2356,7 @@ hr{
     right: 40px;
     z-index: 9999;
     text-align: center;
+    display: none;
 }
 .dail-button a{
     color: #fff;
@@ -2520,6 +2521,9 @@ hr{
     }
 }
 @media (max-width: 768px) {
+    .dail-button{
+        display: block;
+    }
     .Slider .slider-box {
         width: 68%;
     }
